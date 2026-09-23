@@ -1,8 +1,8 @@
-# Burger on the Grill 🍔
+# Burger on the Grill
 
 Site institucional responsivo para uma hamburgueria de Cabrália Paulista/SP, pensado para o celular e para levar o cliente direto ao pedido pelo WhatsApp.
 
-🔗 **Acesse online:** https://rayluansilva.github.io/Burguer-On-the-Grill/
+**Acesse online:** https://rayluansilva.github.io/Burguer-On-the-Grill/
 
 ## Seções
 
